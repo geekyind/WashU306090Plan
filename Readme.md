@@ -1,6 +1,6 @@
 # 🎓 Strategic Roadmap: AI & MLOps Integration in IAM
 
-**Role:** Engineering Manager, Identity & Access Management (IAM)  
+**Role:** Appliction Engineering Lead, Identity & Access Management (IAM)  
 **Organization:** Washington University in St. Louis  
 **Primary Objective:** Modernize the IAM stack with AI/ML capabilities while maintaining current service excellence.
 **Flexibility** This is a living document intended to evolve with the needs of the team.  It was created in a vacuum, is non-authoritative, and I can guarantee it will change according to university priorties.
