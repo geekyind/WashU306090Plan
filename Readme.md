@@ -69,15 +69,16 @@ We will measure progress using a balanced scorecard approach:
 
 | Category | KPI Metric | Target (Day 90) |
 | :--- | :--- | :--- |
-| **Operational** | **Authentication Latency** | AI inference adds **< 50ms** to total request time. |
-| **Operational** | **Service Availability** | Maintain **99.99%** uptime for SSO/Duende during deployments. |
 | **AI/ML Quality** | **False Positive Rate (FPR)** | **< 0.1%** (Critical to avoid locking out faculty/students). |
-| **MLOps** | **Model Retraining Cycle** | Capability to retrain and deploy a new model in **< 48 hours**. |
-| **Team** | **Skill Adoption** | **100%** of IAM engineers completed [intro to MLOps workshop](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action). |
-| **Team** | **GitHub CoPilot** | **30%** reduction in coding time via Copilot. |
 | **Automation** | **MLops** | **100%** of new ML pipelines defined in Actions/YAML |
 | **Automation** | **IAM Deploy** | **50%** of IAM pipelines defined in Actions/YAML |
 | **Compliance** | **Audit Readiness** | **100%** of AI deployments have automated SOC evidence trails via GitHub Actions. |
-| **Velocity** | **Deployment Frequency** | Increase to **Weekly** or Ad-Hoc releases for ML/IAM components (High Velocity). |
+| **MLOps** | **Model Retraining Cycle** | Capability to retrain and deploy a new model in **< 48 hours**. |
+| **Operational** | **Authentication Latency** | AI inference adds **< 50ms** to total request time. |
+| **Operational** | **Service Availability** | Maintain **99.99%** uptime for SSO/Duende during deployments. |
 | **Quality** | **Defect Rate (Zero Bug)** | **0 Critical Bugs** in Prod; **100%** passing automated tests before merge. |
 | **Quality** | **Thrashing** | **0 Feature/ProdSupport** tickets reopened; **100%** passing resgression tests before deploy. |
+| **Security** | **Vulnerabilities** | **0%** of deployments have no high risk vulnerabilities.  Medium and low risk vulnerabilities are mitigated or documented before next regression.  |
+| **Team** | **Skill Adoption** | **100%** of IAM engineers completed [intro to MLOps workshop](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action). |
+| **Team** | **GitHub CoPilot** | **30%** reduction in coding time via Copilot. |
+| **Velocity** | **Deployment Frequency** | Increase to **Weekly** or Ad-Hoc releases for ML/IAM components (High Velocity). |
