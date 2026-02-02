@@ -67,7 +67,9 @@ We will measure progress using a balanced scorecard approach:
 | **MLOps** | **Model Retraining Cycle** | Capability to retrain and deploy a new model in **< 48 hours**. |
 | **Team** | **Skill Adoption** | **100%** of IAM engineers completed [intro to MLOps workshop](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action). |
 | **Team** | **GitHub CoPilot** |  **30%** reduction in coding time via Copilot. |
-| **Automation** | **GitHub Actions** | **100%** of new ML pipelines defined in Actions |
+| **Automation** | **MLops** | **100%** of new ML pipelines defined in Actions/YAML |
+| **Automation** | **IAM Deploy** | **50%** of IAM pipelines defined in Actions/YAML |
 | **Compliance** | **Audit Readiness** | **100%** of AI deployments have automated SOC evidence trails via GitHub Actions. |
-| **Velocity** | **Deployment Frequency** | Increase to **Weekly** or Ad-Hoc releases for ML components (High Velocity). |
+| **Velocity** | **Deployment Frequency** | Increase to **Weekly** or Ad-Hoc releases for ML/IAM components (High Velocity). |
 | **Quality** | **Defect Rate (Zero Bug)** | **0 Critical Bugs** in Prod; **100%** passing automated tests before merge. |
+| **Quality** | **Thrashing** | **0 Feature/ProdSupport** tickets reopened; **100%** passing resgression tests before deploy. |
